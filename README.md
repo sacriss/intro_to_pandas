@@ -1,1 +1,2 @@
-# intro_to_pandas
+# Introducción a Pandas
+Este repositorio muestra una pequeña introducción a Pandas.
